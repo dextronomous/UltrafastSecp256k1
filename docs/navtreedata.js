@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "UltrafastSecp256k1", "index.html", [
-    [ "UltrafastSecp256k1 – High-Performance secp256k1 Engine for CPU, GPU, Mobile, Embedded, and Web", "index.html", "index" ],
+    [ "UltrafastSecp256k1 — GPU-Accelerated secp256k1 · ECDSA · Schnorr · FROST · BIP-340 · BIP-352 · CUDA · OpenCL · Metal · ARM64 · RISC-V · WASM", "index.html", "index" ],
     [ "Supported Guarantees – <tt>ufsecp</tt> C ABI", "md_include_2ufsecp_2SUPPORTED__GUARANTEES.html", [
       [ "Tier 1 – Stable (ABI >= 1)", "md_include_2ufsecp_2SUPPORTED__GUARANTEES.html#autotoc_md2", [
         [ "Thread safety", "md_include_2ufsecp_2SUPPORTED__GUARANTEES.html#autotoc_md3", null ],
@@ -66,6 +66,7 @@ var NAVTREE =
       [ "File Members", "globals.html", [
         [ "All", "globals.html", "globals_dup" ],
         [ "Functions", "globals_func.html", "globals_func" ],
+        [ "Variables", "globals_vars.html", null ],
         [ "Typedefs", "globals_type.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
@@ -76,18 +77,20 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "UltrafastSecp256k1_8hpp.html",
-"classsecp256k1_1_1fast_1_1FieldElement.html#accfb3e3a65a9e41deec53b3e9e21d59a",
-"cpu_2include_2secp256k1_2types_8hpp_source.html",
-"field__asm_8hpp.html#a2bd3922bd58f8a6d328d28d52003c3a1",
-"index.html#autotoc_md44",
-"namespacesecp256k1.html#ad0bcd9acaefe52ddd34bef83f78855a9ad4fd7223ebde09ed36b615658d29d7bc",
-"namespacesecp256k1_1_1fast.html#a241eed401c0532475fdd1bcee83d2912",
-"namespacesecp256k1_1_1zk.html#a4f1639e44cdf20af3335e5ad784d6adf",
-"structsecp256k1_1_1ECDSASignature.html#a7f1dc966ca60a9c54d885b2b5ace36eb",
-"structsecp256k1_1_1coins_1_1CoinFeatures.html#ab40ae667a2f62f168eb2bbc8494132bf",
-"structsecp256k1_1_1fast_1_1FixedBaseConfig.html#a1bca90c39dd74eb434d629c5f4e99462",
-"structufsecp__gpu__ctx.html#acbe543ca33f4f80db1578367c653e21a",
-"ufsecp__gpu_8h.html#adb6658422d5bbadc42f117da3ccb07cf"
+"classsecp256k1_1_1fast_1_1CombGenContext.html#a49672498ff1c87311e1e157bd327edc7",
+"classsecp256k1_1_1fast_1_1Scalar.html#ae634c2ab98447b45a16a507b6d5b76d3",
+"field_8hpp.html#a549591bddbe22577193cbc4b083e8894",
+"glv_8hpp.html#ae67ff54a26ac7cea257b4739a7129ed4",
+"namespacemembers_w.html",
+"namespacesecp256k1_1_1coins.html#ac9d71f047490c3fae14f7aff305d9084",
+"namespacesecp256k1_1_1fast.html#aaf180accadaa322d54fb218f9b565229",
+"sanitizer__scale_8hpp.html#a54d8d06fa60f605454dbffd5d4561ed4",
+"structsecp256k1_1_1FrostKeyPackage.html#a490ca4fa4e222cf6cc2284c27e932be2",
+"structsecp256k1_1_1WitnessTx.html#a0f245d525c1c8b314223e4529f3132c6",
+"structsecp256k1_1_1fast_1_1FieldElement52.html#a94767fb04e2c72ac26b9a464d4a81c18",
+"structsecp256k1_1_1zk_1_1RangeProof.html#a37e0c725a77dbb4ac31caea081b9756c",
+"ufsecp_8h.html#aee96b54f09b9983e87fb09bec1e22479",
+"ufsecp__version_8h_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
